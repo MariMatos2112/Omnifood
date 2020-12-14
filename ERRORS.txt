@@ -1,0 +1,4 @@
+1) Fix the jQuery problem with the 'slideToggle' function on the 'js--main-navigation' class
+   The problem: when you click on the button, and it rolls the navigation upwards - if you increase the size of the screen again, the nav will be still hidden because it went upwards and you never clicked on it again so it could come back. 
+
+2) After the layout is designed with flexbox and grid, create a hover effect on the price boxes: when the mouse's on it, the box gets bigger.
